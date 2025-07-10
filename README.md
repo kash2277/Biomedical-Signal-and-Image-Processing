@@ -1,1 +1,2 @@
-# cs666student
+# Biomedical-Signal-and-Image-Processing
+Signal and image processing methods for biomedical diagnostics and research. Reconstructed visualized, and analyzed datasets from different modalities such as electrocardiography (ECG), electroencephalography and magnetoencephalography (EEG/MEG), ultrasound (US), X-ray, electron and light microscopy (EM/LM), computerized tomography (CT), structural and functional magnetic resonance imaging (MRI/fMRI), as well as single photon emission computed tomography and positron emission tomography (SPECT/PET)
